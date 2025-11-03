@@ -1,6 +1,3 @@
-Sure 😊 Here’s a clean, professional **README.md** for your **Fake News Detection** project — perfect for your GitHub repo 👇
-
----
 
 ## 📰 Fake News Detection using Machine Learning
 
@@ -131,4 +128,3 @@ model = joblib.load("model.pkl")
 
 ---
 
-Would you like me to make this README in **Markdown format (.md)** file so you can directly upload it to GitHub?
